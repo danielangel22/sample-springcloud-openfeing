@@ -1,0 +1,5 @@
+com\codereview\openfeing\clients\FakeApiProductsFallback.class
+com\codereview\openfeing\clients\FakeApiProductsFallback$1.class
+com\codereview\openfeing\controller\ProductsController.class
+com\codereview\openfeing\clients\FakeApiProducts.class
+com\codereview\openfeing\OpenfeingApplication.class
